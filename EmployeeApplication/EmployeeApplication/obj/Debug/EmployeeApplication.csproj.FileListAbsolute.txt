@@ -1,0 +1,9 @@
+c:\users\francis\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+C:\Users\Francis\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.frmComputeSalary.resources
+C:\Users\Francis\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.Properties.Resources.resources
+C:\Users\Francis\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.GenerateResource.Cache
+C:\Users\Francis\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+C:\Users\Francis\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+C:\Users\Francis\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+C:\Users\Francis\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.pdb
+C:\Users\Francis\documents\visual studio 2015\Projects\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csprojResolveAssemblyReference.cache
